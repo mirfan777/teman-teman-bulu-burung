@@ -1,0 +1,3 @@
+[submodule "frond-end-reprocess"]
+	path = frond-end-reprocess
+	url = https://github.com/yyacyn/frond-end-reprocess.git
