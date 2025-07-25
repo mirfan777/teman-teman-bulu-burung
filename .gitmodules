@@ -1,3 +1,6 @@
 [submodule "frond-end-reprocess"]
 	path = frond-end-reprocess
 	url = https://github.com/yyacyn/frond-end-reprocess.git
+[submodule "reprocess-api"]
+	path = reprocess-api
+	url = https://github.com/dark-hermes/reprocess-api.git
